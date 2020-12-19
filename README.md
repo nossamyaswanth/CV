@@ -1,3 +1,3 @@
 # CV
 
-checkout here _https://nossamyaswanth.github.io/MySite/_
+checkout here _https://nossamyaswanth.github.io/CV/_
